@@ -1,0 +1,16 @@
+{
+  "disclaimer_he": "הערכות האמינות והדגמים המועדפים הם הנחות כלליות בלבד — לא אמת מוחלטת. תמיד לשלב מחיר, שנתון, קילומטראז', בעלות, מוכר ומיקום.",
+  "models": [
+    {"make_model_key": "hyundai ioniq", "reliability_hint": 0.85, "fuel_notes": "היברידי חסכוני", "caveats_he": "לבדוק סוללה ומערכת היברידית בהיסטוריית טיפולים"},
+    {"make_model_key": "toyota corolla", "reliability_hint": 0.88, "fuel_notes": "בנזין סביר", "caveats_he": "לוודא טיפולים שוטפים"},
+    {"make_model_key": "toyota auris", "reliability_hint": 0.86, "fuel_notes": "גרסת היבריד מועדפת לחיסכון", "caveats_he": "לבדוק גרסת מנוע והיבריד"},
+    {"make_model_key": "kia niro", "reliability_hint": 0.8, "fuel_notes": "היברידי", "caveats_he": "לוודא עדכוני תוכנה וטיפולים במוסך מורשה"},
+    {"make_model_key": "kia ceed", "reliability_hint": 0.75, "fuel_notes": "בנזין", "caveats_he": "תלוי תחזוקה"},
+    {"make_model_key": "honda civic", "reliability_hint": 0.82, "fuel_notes": "בנזין", "caveats_he": "לוודא רקורד תאונות"},
+    {"make_model_key": "skoda octavia", "reliability_hint": 0.78, "fuel_notes": "דיזל/בנזין", "caveats_he": "דיזל — לבדוק שימוש ותחזוקה; מומלץ רק עם היסטוריית טיפולים חזקה"},
+    {"make_model_key": "mazda 3", "reliability_hint": 0.8, "fuel_notes": "בנזין, פחות חסכוני מסוגים היברידיים", "caveats_he": "יעילות דלק נמוכה יחסית מהיברידים"},
+    {"make_model_key": "hyundai elantra", "reliability_hint": 0.74, "fuel_notes": "בנזין", "caveats_he": "לבדוק היסטוריה ותאונות"},
+    {"make_model_key": "suzuki sx4", "reliability_hint": 0.72, "fuel_notes": "בנזין", "caveats_he": "לוודא התאמה למשפחה מבחינת מרווח"},
+    {"make_model_key": "suzuki s-cross", "reliability_hint": 0.73, "fuel_notes": "בנזין", "caveats_he": "לבדוק גרסה וציוד"}
+  ]
+}
